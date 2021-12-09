@@ -1,6 +1,7 @@
 
 global path "/Users/jaqueline.oliveira/Dropbox/Roads/AEJ_replication_files/temporary"
 
+*testing github
 
 
 global prehead prehead(\begin{table}[hbpt] \begin{center} \begin{threeparttable} \begin{adjustbox}{max width=\textwidth,max totalheight=\textheight,keepaspectratio} \begin{minipage} {\textwidth} \caption{{@title}} \label{@title} \begin{tabular}{l*{@M}c} \toprule) posthead("\midrule")
